@@ -18,6 +18,6 @@ public class Count {
             }
         }
         
-        System.out.println("The count of positive numbers in the array is: " + count);
+        System.out.println(count);
     }
 }
