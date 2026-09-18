@@ -14,7 +14,7 @@ public class Binary {
     }
 
     public static void main(String[] args) {
-        int n = 5; // Size of the binary pattern
+        int n = 5;
         printBinaryPattern(n);
     }
     
